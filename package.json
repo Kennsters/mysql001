@@ -1,0 +1,23 @@
+{
+  "name": "mysql001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sevrver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kennsters/mysql001.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kennsters/mysql001/issues"
+  },
+  "homepage": "https://github.com/Kennsters/mysql001#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
